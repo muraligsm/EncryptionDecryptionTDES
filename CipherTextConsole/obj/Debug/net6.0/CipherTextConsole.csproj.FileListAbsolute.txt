@@ -1,0 +1,15 @@
+D:\Amex Docs\Amex Transaction Sample Project\CipherTextConsole\CipherTextConsole\CipherTextConsole\bin\Debug\net6.0\CipherTextConsole.exe
+D:\Amex Docs\Amex Transaction Sample Project\CipherTextConsole\CipherTextConsole\CipherTextConsole\bin\Debug\net6.0\CipherTextConsole.deps.json
+D:\Amex Docs\Amex Transaction Sample Project\CipherTextConsole\CipherTextConsole\CipherTextConsole\bin\Debug\net6.0\CipherTextConsole.runtimeconfig.json
+D:\Amex Docs\Amex Transaction Sample Project\CipherTextConsole\CipherTextConsole\CipherTextConsole\bin\Debug\net6.0\CipherTextConsole.dll
+D:\Amex Docs\Amex Transaction Sample Project\CipherTextConsole\CipherTextConsole\CipherTextConsole\bin\Debug\net6.0\CipherTextConsole.pdb
+D:\Amex Docs\Amex Transaction Sample Project\CipherTextConsole\CipherTextConsole\CipherTextConsole\obj\Debug\net6.0\CipherTextConsole.csproj.AssemblyReference.cache
+D:\Amex Docs\Amex Transaction Sample Project\CipherTextConsole\CipherTextConsole\CipherTextConsole\obj\Debug\net6.0\CipherTextConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Amex Docs\Amex Transaction Sample Project\CipherTextConsole\CipherTextConsole\CipherTextConsole\obj\Debug\net6.0\CipherTextConsole.AssemblyInfoInputs.cache
+D:\Amex Docs\Amex Transaction Sample Project\CipherTextConsole\CipherTextConsole\CipherTextConsole\obj\Debug\net6.0\CipherTextConsole.AssemblyInfo.cs
+D:\Amex Docs\Amex Transaction Sample Project\CipherTextConsole\CipherTextConsole\CipherTextConsole\obj\Debug\net6.0\CipherTextConsole.csproj.CoreCompileInputs.cache
+D:\Amex Docs\Amex Transaction Sample Project\CipherTextConsole\CipherTextConsole\CipherTextConsole\obj\Debug\net6.0\CipherTextConsole.dll
+D:\Amex Docs\Amex Transaction Sample Project\CipherTextConsole\CipherTextConsole\CipherTextConsole\obj\Debug\net6.0\refint\CipherTextConsole.dll
+D:\Amex Docs\Amex Transaction Sample Project\CipherTextConsole\CipherTextConsole\CipherTextConsole\obj\Debug\net6.0\CipherTextConsole.pdb
+D:\Amex Docs\Amex Transaction Sample Project\CipherTextConsole\CipherTextConsole\CipherTextConsole\obj\Debug\net6.0\CipherTextConsole.genruntimeconfig.cache
+D:\Amex Docs\Amex Transaction Sample Project\CipherTextConsole\CipherTextConsole\CipherTextConsole\obj\Debug\net6.0\ref\CipherTextConsole.dll
